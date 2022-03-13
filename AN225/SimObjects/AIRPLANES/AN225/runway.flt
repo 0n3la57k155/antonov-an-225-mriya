@@ -1,0 +1,342 @@
+
+[SIMVARS.0]
+
+pvelbodyaxis = 0 ; 
+bvelbodyaxis = 0 ; 
+hvelbodyaxis = 0 ; 
+xvelbodyaxis = 0 ; 
+yvelbodyaxis = 0 ; 
+zvelbodyaxis = 0 ; 
+simonground = True ; 
+
+[AVIONICS.0]
+
+comm1active = 127.850 ; 
+comm1standby = 124.850 ; 
+comm2active = 124.850 ; 
+comm2standby = 124.850 ; 
+comm3active = 124.850 ; 
+comm3standby = 124.850 ; 
+nav1active = 110.50 ; 
+nav1standby = 113.90 ; 
+obs1 = 360 ; 
+nav2active = 110.50 ; 
+nav2standby = 113.90 ; 
+obs2 = 360 ; 
+transponderstate = 4 ; 
+adfactive = 890 ; 
+adf2active = 890 ; 
+dmeselected = 1 ; 
+comtransmit = 1 ; 
+comreceiveboth = False ; 
+com1receive = True ; 
+com2receive = False ; 
+com3receive = False ; 
+audionav1listen = False ; 
+audionav2listen = False ; 
+audiomarkerlisten = True ; 
+audiodmelisten = False ; 
+audioadflisten = False ; 
+audioadf2listen = False ; 
+avionicsswitch = True ; 
+
+[ENGINE PARAMETERS.1.0]
+
+throttleleverpct = 0 ; 
+propellerleverpct = 1 ; 
+mixtureleverpct = 1 ; 
+pct engine rpm = 0.54353931590530213391 ; 
+maxreachedenginerpm = 27409.113097356152139 ; 
+leftmagneto = True ; 
+rightmagneto = True ; 
+generatorswitch = True ; 
+cowlflappct = 0 ; 
+fuelpumpswitch = False ; 
+carbheat/deiceswitch = False ; 
+enginemasterswitch = True ; 
+glowplugtemperaturepct = 1 ; 
+afterburner = 0 ; 
+egt_degr = 1300 ; 
+itt_degr = 1600 ; 
+
+[ENGINE PARAMETERS.2.0]
+
+throttleleverpct = 0 ; 
+propellerleverpct = 1 ; 
+mixtureleverpct = 1 ; 
+pct engine rpm = 0.54353931590530213391 ; 
+maxreachedenginerpm = 27409.113097356152139 ; 
+leftmagneto = False ; 
+rightmagneto = False ; 
+generatorswitch = True ; 
+cowlflappct = 0 ; 
+fuelpumpswitch = False ; 
+carbheat/deiceswitch = False ; 
+enginemasterswitch = True ; 
+glowplugtemperaturepct = 1 ; 
+afterburner = 0 ; 
+egt_degr = 1300 ; 
+itt_degr = 1600 ; 
+
+[ENGINE PARAMETERS.3.0]
+
+throttleleverpct = 0 ; 
+propellerleverpct = 1 ; 
+mixtureleverpct = 1 ; 
+pct engine rpm = 0.54353931590530213391 ; 
+maxreachedenginerpm = 27409.113097356152139 ; 
+leftmagneto = False ; 
+rightmagneto = False ; 
+generatorswitch = True ; 
+cowlflappct = 0 ; 
+fuelpumpswitch = False ; 
+carbheat/deiceswitch = False ; 
+enginemasterswitch = True ; 
+glowplugtemperaturepct = 1 ; 
+afterburner = 0 ; 
+egt_degr = 1300 ; 
+itt_degr = 1600 ; 
+
+[ENGINE PARAMETERS.4.0]
+
+throttleleverpct = 0 ; 
+propellerleverpct = 1 ; 
+mixtureleverpct = 1 ; 
+pct engine rpm = 0.54353931590530213391 ; 
+maxreachedenginerpm = 27409.113097356152139 ; 
+leftmagneto = False ; 
+rightmagneto = False ; 
+generatorswitch = True ; 
+cowlflappct = 0 ; 
+fuelpumpswitch = False ; 
+carbheat/deiceswitch = False ; 
+enginemasterswitch = True ; 
+glowplugtemperaturepct = 1 ; 
+afterburner = 0 ; 
+egt_degr = 1300 ; 
+itt_degr = 1600 ; 
+
+[ENGINE PARAMETERS.5.0]
+
+throttleleverpct = 0 ; 
+propellerleverpct = 1 ; 
+mixtureleverpct = 1 ; 
+pct engine rpm = 0.54353931590530213391 ; 
+maxreachedenginerpm = 27409.113097356152139 ; 
+leftmagneto = False ; 
+rightmagneto = False ; 
+generatorswitch = True ; 
+cowlflappct = 0 ; 
+fuelpumpswitch = False ; 
+carbheat/deiceswitch = False ; 
+enginemasterswitch = True ; 
+glowplugtemperaturepct = 1 ; 
+afterburner = 0 ; 
+egt_degr = 1300 ; 
+itt_degr = 1600 ; 
+
+[ENGINE PARAMETERS.6.0]
+
+throttleleverpct = 0 ; 
+propellerleverpct = 1 ; 
+mixtureleverpct = 1 ; 
+pct engine rpm = 0.54353931590530213391 ; 
+maxreachedenginerpm = 27409.113097356152139 ; 
+leftmagneto = False ; 
+rightmagneto = False ; 
+generatorswitch = True ; 
+cowlflappct = 0 ; 
+fuelpumpswitch = False ; 
+carbheat/deiceswitch = False ; 
+enginemasterswitch = True ; 
+glowplugtemperaturepct = 1 ; 
+afterburner = 0 ; 
+egt_degr = 1300 ; 
+itt_degr = 1600 ; 
+
+[FUELSYSTEM.0]
+
+valve.1 = True ; 
+valve.2 = True ; 
+valve.3 = True ; 
+valve.4 = True ; 
+valve.5 = True ; 
+valve.6 = True ; 
+valve.7 = True ; 
+valve.8 = True ; 
+valve.9 = True ; 
+valve.10 = False ; 
+valve.11 = False ; 
+valve.12 = False ; 
+valve.13 = False ; 
+valve.14 = False ; 
+valve.15 = False ; 
+valve.16 = False ; 
+valve.17 = False ; 
+valve.18 = False ; 
+valve.19 = False ; 
+valve.20 = False ; 
+valve.21 = False ; 
+valve.22 = False ; 
+valve.23 = False ; 
+valve.24 = False ; 
+valve.25 = False ; 
+valve.26 = False ; 
+valve.27 = False ; 
+pump.1 = True ; 
+pump.2 = True ; 
+pump.3 = True ; 
+pump.4 = True ; 
+pump.5 = True ; 
+pump.6 = True ; 
+pump.7 = True ; 
+pump.8 = True ; 
+pump.9 = True ; 
+pump.10 = True ; 
+pump.11 = True ; 
+pump.12 = True ; 
+pump.13 = True ; 
+pump.14 = True ; 
+pump.15 = True ; 
+pump.16 = True ; 
+pump.17 = False ; 
+pump.18 = True ; 
+pump.19 = True ; 
+pump.20 = True ; 
+pump.21 = True ; 
+
+[SYSTEMS.0]
+
+batteryswitch = True ; 
+structuraldeiceswitch = False ; 
+propdeiceswitch = False ; 
+autobrakes = 0 ; 
+standbyvacuum = False ; 
+propsync = False ; 
+autofeatherswitch = False ; 
+flightdirector = True ; 
+panellights = False ; 
+launchbarswitch = False ; 
+launchbarstate = 0 ; 
+tailhookhandle = False ; 
+tailhookstate = 0 ; 
+foldingwingshandle = False ; 
+foldingwingsstate = 0, 0 ; 
+auxpowerunitswitch = False ; 
+
+[ELECTRICAL.0]
+
+alternator.5 = False ; 
+alternator.6 = False ; 
+circuit.104 = True,0.5 ; 
+circuit.105 = True,0.5 ; 
+circuit.106 = True,0.5 ; 
+circuit.107 = True,0.5 ; 
+circuit.108 = True,0.5 ; 
+circuit.111 = False,1.0 ; 
+
+[LOCALVARS.0]
+
+xmlvar_seatbelts = 1 ; 
+b747_8_mfd_nav_mode = 2 ; 
+
+[GAUGES.0]
+
+kollsmansetting = 29.921342849731445313 ; 
+
+[BLEEDAIR.0]
+
+bleedairsource = 0 ; 
+
+[SWITCHES.0]
+
+pitotheat = False ; 
+beaconlights = True ; 
+landinglights = True ; 
+logolights = True ; 
+navlights = True ; 
+panellights = True ; 
+recognitionlights = True ; 
+strobelights = True ; 
+taxilights = False ; 
+winglights = True ; 
+cabinlights = False ; 
+glareshieldlights = False ; 
+glareshieldlightsnight = True ; 
+pedestallights = False ; 
+pedestallightsnight = True ; 
+potentiometer.25 = 0.5 ; 
+potentiometer.26 = 0.5 ; 
+potentiometer.27 = 0.5 ; 
+potentiometer.28 = 0.5 ; 
+potentiometer.29 = 0.5 ; 
+potentiometer.30 = 0.5 ; 
+potentiometer.50 = 0.5 ; 
+
+[AUTOPILOT.0]
+
+masterswitch = False ; 
+wingleveler = False ; 
+nav1lock = False ; 
+headinglock = False ; 
+headingvalue = 0 ; 
+altitudelock = False ; 
+altitudevalue = 10000 ; 
+attitudehold = False ; 
+airspeedhold = False ; 
+airspeedvalue = 200 ; 
+machhold = False ; 
+machvalue = 0 ; 
+verticalspeedhold = False ; 
+verticalspeedvalue = 0 ; 
+rpmhold = False ; 
+rpmvalue = 0 ; 
+glideslopehold = False ; 
+approachhold = False ; 
+backcoursehold = False ; 
+yawdamper = False ; 
+toga = False ; 
+autothrottlearm = False ; 
+gpsdrivesnav1 = True ; 
+isusedforlesson = False ; 
+forcedisplayui = True ; 
+maxbankindex = 6 ; 
+
+[CONTROLS.0]
+
+spoilershandle = 000.00 ; 
+flapshandle = 050.00 ; 
+leftflap = 003.33 ; 
+rightflap = 003.33 ; 
+gearshandle = 000.01 ; 
+gear1 = 100.00 ; 
+gear2 = 100.00 ; 
+gear3 = 100.00 ; 
+yokey = 050.00 ; 
+yokex = 050.00 ; 
+rudder = 050.00 ; 
+leftbrake = 000.00 ; 
+rightbrake = 000.00 ; 
+parkingbrake = 100.00 ; 
+ruddertrimpct = 0 ; 
+ailerontrimpct = 0 ; 
+ailerontrimdisabled = False ; 
+elevatortrimdisabled = False ; 
+ruddertrimdisabled = False ; 
+spoilersarmed = True ; 
+
+[PROPELLER.1.0]
+
+prop_beta = 0.5 ; 
+
+[PROPELLER.2.0]
+
+prop_beta = 0.5 ; 
+
+[PROPELLER.2.0]
+
+prop_beta = 0.5 ; 
+
+[PROPELLER.2.0]
+
+prop_beta = 0.5 ; 
